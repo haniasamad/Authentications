@@ -1,0 +1,103 @@
+*{
+    margin: 0px;
+    padding: 0px;
+} 
+ul{
+    list-style: none;
+    margin-top: 15px;
+    font-family: "arial";
+    margin-left: 300px;
+}
+li{
+    
+    display: inline;
+   padding: 10px;
+   margin-left: 10px;
+}
+.navbar{
+    display: flex; 
+
+    
+    
+}
+
+h2{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+button{
+    margin-left: 220px;  
+   padding-left:30px;
+   padding-right: 30px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   background-color: #5f4bc1 ;
+  border: none;
+  border-radius: 10px;
+  color: white;
+   font-size: 18px;
+   margin-top: 10px;
+  
+  }
+  
+  button.a{
+      background-color: transparent;
+      color: #5f4bc1; 
+      border: 1px solid #5f4bc1;
+      border-radius: 10px;
+      margin-left: 20px;
+  }
+  .img img{
+    height: 500px;
+    width: 500px;
+    margin-left: 400px;
+    border: none;
+    border-radius: 40px;
+     margin-top: 45px; 
+  }
+  .header{
+    margin-left: 30px;
+  }
+.header h1{
+    margin-top: 80px;
+    margin-left: 40px
+}  
+.header p{
+    margin-left: 40px;
+    margin-top: 10px;
+    font-family: "arial";
+    color: gray;
+    font-size: 16px;
+}
+.header input.b{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 70px; 
+    font-size: 18px;
+    font-family: "arial";
+    margin-top: 30px;
+    margin-left: 40px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.display{
+    display: flex;
+}
+.header input.a{
+     margin-top: 20px; 
+    margin-left: 40px; 
+     display: flex; 
+     padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 70px; 
+    font-size: 18px;
+    font-family: "arial";
+     border: 1px solid black;
+    border-radius: 10px;
+}
+.header button{
+    margin-left: 40px;
+    margin-top: 20px;
+}
